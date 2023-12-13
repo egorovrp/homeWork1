@@ -10,3 +10,5 @@
 let name = ("Роман");
 let admin = name;
 console.log(admin);
+
+//Домашнее задание завершено
